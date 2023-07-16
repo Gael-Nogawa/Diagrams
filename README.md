@@ -1,3 +1,3 @@
 # Diagrams
 
-Utilizando o Drw.io para modelar classes.
+Utilizando o Draw.io para modelar classes.
