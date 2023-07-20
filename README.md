@@ -1,3 +1,3 @@
-# Diagrams
+# Diagramas
 
-Utilizando o Draw.io para realizar fluxogramas, modelando classes e ligações.
+Utilizando o Draw.io para realizar fluxogramas, modelando classes e relacionamento.
